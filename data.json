@@ -1,0 +1,34 @@
+{
+    "characters": [
+        {
+            "name": "Harry",
+            "surname": "Potter",
+            "house": "Griffyndor"
+        },
+        {
+            "name": "Ron",
+            "surname": "Wesley",
+            "house": "Griffyndor"
+        },
+        {
+            "name": "Hermione",
+            "surname": "Granger",
+            "house": "Griffyndor"
+        }
+    ],
+    "books": [
+        {
+            "id": "HP001",
+            "title": "Harry Potter and the sorcerer stone",
+            "author": "J. K. Rowling",
+            "year": "1991"
+        },
+        {
+            "id": "HP002",
+            "title": "Harry Potter and secret chamber",
+            "author": "J. K. Rowling",
+            "year": "1992"
+        }
+    ]
+
+}
